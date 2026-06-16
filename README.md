@@ -166,7 +166,7 @@ foobar/1.2.3
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/http-server-from-scratch.git
+git clone https://github.com/Bhanubasyan/backend-engineering-journey.git
 ```
 
 ## Move Into Project
